@@ -1,0 +1,27 @@
+{
+  "name": "fb-id",
+  "version": "0.0.1",
+  "description": "Get page ID from facebook page url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodenica/fb-id.git"
+  },
+  "keywords": [
+    "facebook",
+    "page",
+    "id"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodenica/fb-id/issues"
+  },
+  "homepage": "https://github.com/nodenica/fb-id#readme",
+  "dependencies": {
+    "request": "2.67.0"
+  }
+}
