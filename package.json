@@ -1,6 +1,6 @@
 {
   "name": "fb-id",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get page ID from facebook page url",
   "main": "index.js",
   "scripts": {
